@@ -1,7 +1,7 @@
 ---
 applications:
-- name: cf-demo
-  memory: 768M
+- name: smu-lab2
+  memory: 600M
   instances: 1
   random-route: true
   buildpacks:
